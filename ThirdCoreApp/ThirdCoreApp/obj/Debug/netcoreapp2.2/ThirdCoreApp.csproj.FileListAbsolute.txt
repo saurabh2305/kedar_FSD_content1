@@ -1,0 +1,14 @@
+D:\dotnetcore\ThirdCoreApp\ThirdCoreApp\bin\Debug\netcoreapp2.2\ThirdCoreApp.deps.json
+D:\dotnetcore\ThirdCoreApp\ThirdCoreApp\bin\Debug\netcoreapp2.2\ThirdCoreApp.runtimeconfig.json
+D:\dotnetcore\ThirdCoreApp\ThirdCoreApp\bin\Debug\netcoreapp2.2\ThirdCoreApp.runtimeconfig.dev.json
+D:\dotnetcore\ThirdCoreApp\ThirdCoreApp\bin\Debug\netcoreapp2.2\ThirdCoreApp.dll
+D:\dotnetcore\ThirdCoreApp\ThirdCoreApp\bin\Debug\netcoreapp2.2\ThirdCoreApp.pdb
+D:\dotnetcore\ThirdCoreApp\ThirdCoreApp\obj\Debug\netcoreapp2.2\ThirdCoreApp.csprojAssemblyReference.cache
+D:\dotnetcore\ThirdCoreApp\ThirdCoreApp\obj\Debug\netcoreapp2.2\ThirdCoreApp.csproj.CoreCompileInputs.cache
+D:\dotnetcore\ThirdCoreApp\ThirdCoreApp\obj\Debug\netcoreapp2.2\ThirdCoreApp.RazorAssemblyInfo.cache
+D:\dotnetcore\ThirdCoreApp\ThirdCoreApp\obj\Debug\netcoreapp2.2\ThirdCoreApp.RazorAssemblyInfo.cs
+D:\dotnetcore\ThirdCoreApp\ThirdCoreApp\obj\Debug\netcoreapp2.2\ThirdCoreApp.AssemblyInfoInputs.cache
+D:\dotnetcore\ThirdCoreApp\ThirdCoreApp\obj\Debug\netcoreapp2.2\ThirdCoreApp.AssemblyInfo.cs
+D:\dotnetcore\ThirdCoreApp\ThirdCoreApp\obj\Debug\netcoreapp2.2\ThirdCoreApp.RazorTargetAssemblyInfo.cache
+D:\dotnetcore\ThirdCoreApp\ThirdCoreApp\obj\Debug\netcoreapp2.2\ThirdCoreApp.dll
+D:\dotnetcore\ThirdCoreApp\ThirdCoreApp\obj\Debug\netcoreapp2.2\ThirdCoreApp.pdb

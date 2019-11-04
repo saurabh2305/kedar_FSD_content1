@@ -1,0 +1,14 @@
+D:\dotnetcore\SecondCoreApp\SecondCoreApp\bin\Debug\netcoreapp2.2\SecondCoreApp.deps.json
+D:\dotnetcore\SecondCoreApp\SecondCoreApp\bin\Debug\netcoreapp2.2\SecondCoreApp.runtimeconfig.json
+D:\dotnetcore\SecondCoreApp\SecondCoreApp\bin\Debug\netcoreapp2.2\SecondCoreApp.runtimeconfig.dev.json
+D:\dotnetcore\SecondCoreApp\SecondCoreApp\bin\Debug\netcoreapp2.2\SecondCoreApp.dll
+D:\dotnetcore\SecondCoreApp\SecondCoreApp\bin\Debug\netcoreapp2.2\SecondCoreApp.pdb
+D:\dotnetcore\SecondCoreApp\SecondCoreApp\obj\Debug\netcoreapp2.2\SecondCoreApp.csprojAssemblyReference.cache
+D:\dotnetcore\SecondCoreApp\SecondCoreApp\obj\Debug\netcoreapp2.2\SecondCoreApp.csproj.CoreCompileInputs.cache
+D:\dotnetcore\SecondCoreApp\SecondCoreApp\obj\Debug\netcoreapp2.2\SecondCoreApp.RazorAssemblyInfo.cache
+D:\dotnetcore\SecondCoreApp\SecondCoreApp\obj\Debug\netcoreapp2.2\SecondCoreApp.RazorAssemblyInfo.cs
+D:\dotnetcore\SecondCoreApp\SecondCoreApp\obj\Debug\netcoreapp2.2\SecondCoreApp.AssemblyInfoInputs.cache
+D:\dotnetcore\SecondCoreApp\SecondCoreApp\obj\Debug\netcoreapp2.2\SecondCoreApp.AssemblyInfo.cs
+D:\dotnetcore\SecondCoreApp\SecondCoreApp\obj\Debug\netcoreapp2.2\SecondCoreApp.RazorTargetAssemblyInfo.cache
+D:\dotnetcore\SecondCoreApp\SecondCoreApp\obj\Debug\netcoreapp2.2\SecondCoreApp.dll
+D:\dotnetcore\SecondCoreApp\SecondCoreApp\obj\Debug\netcoreapp2.2\SecondCoreApp.pdb
